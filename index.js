@@ -5,6 +5,6 @@ import ShoppginList from './ShoppginList.jsx';
 
 
 ReactDOM.render(
-  <ShoppginList name="Pondugula" />,
+  <ShoppginList name="foo" />,
   document.getElementById('root')
 );
